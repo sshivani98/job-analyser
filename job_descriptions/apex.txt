@@ -1,0 +1,51 @@
+Job description: 
+
+Assess/query large datasets to determine impactful trends within our business.
+
+ Interpret data trends and patterns. Correlate to actionable insights.
+ Work closely with cross-functional partners to communicate discovered trends, resolve data issues,
+
+troubleshooting and analysis, and bug fixes
+
+ Develop reports and presentations for various business stakeholders
+ Work with teams across the Company on data quality and availability
+ Develop new frameworks to collect data including automated data collection
+ Collaborate with Data Warehouse and Engineering teams to manage relevant datasets within the Company.
+
+ Data Analysis and Interpretation:  Collect, analyze, and interpret data to identify trends and patterns affecting our Ads Taxonomy table. Translate data findings into actionable insights and recommendations for the core team.
+
+ Data Collection and Strategy:  Develop and implement effective data collection systems and strategies to support automation and integration projects. Ensure data accuracy, availability, integrity and reliability for various initiatives.
+
+ Cross-Functional Collaboration  : Collaborate with teams across different functions to support entity and taxonomy realignments. Identify process improvement opportunities and provide regular recommendations to enhance data-related processes.
+
+ SQL Expertise:  Utilize efficient SQL writing and querying techniques to troubleshoot issues directly within the Snowflake data warehouse. Optimize queries for performance and maintainability.
+
+ Data Workflows and Insights:  Work with data tools including SQL and Tableau to automate data workflows. Build meaningful insights through data visualizations, standardized reports, and dashboards for ad-hoc analyses.
+
+About You
+
+  Experience in a quantitative role at a product company
+ A high level of organization and attention to detail
+ Familiarity with Database interface tools, SQL, and Programming concepts
+ Relevant experience within the Retail space along
+ Eagerness to learn, flexibility to pivot when needed, savviness to navigate and thrive in a dynamic
+
+environment, and a growth mindset needed to build a successful team and company.
+
+ Experience with Data mapping, Data architecture, Data integration, ETL, and working on large datasets
+
+Requirements:
+
+ Bachelor’s degree or equivalent work experience in a relevant business/domain. 
+ Hands-on experience with SQL, Data Manipulation, and Data Analysis. 
+ Ability to work independently as an individual contributor, taking ownership of assigned tasks/projects. Capable of collaborating effectively in team environments, especially on large/complex projects. 
+ Flexibility to adapt to changing project requirements and reprioritizations. 
+ Proficiency in documentation, creating and accepting handovers, and effectively managing change/release communications. 
+ Strong verbal and written communication skills 
+ Exposure to working with large data platforms and handling sizable datasets is a plus. 
+
+Nice to have:
+
+ 2+ years of experience applying Python (NumPy, Pandas, Other common libraries) programming to solve business challenges. 
+ Scripting/development experience with Python, including working with Google APIs, building data pipelines, authentication, file handling, and raw data manipulation is a plus. 
+ Snowflake 
